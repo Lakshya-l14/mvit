@@ -1,0 +1,28 @@
+#div1{
+    height:550px;
+    width:300px;
+    border:5px solid rgba(3, 73, 81, 0.393);
+    border-bottom-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    margin:5px;
+    padding:5px;
+    background-color: rgb(6, 181, 181);
+    box-shadow: 10px 10px 10px black;
+}
+img{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+h1{
+    background-color: aliceblue;
+}

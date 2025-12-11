@@ -1,0 +1,12 @@
+h1{
+    background-color: aqua;
+    color:brown;
+}
+selector{
+    property:value;
+}
+four types of selectors
+id #idname
+class  .classname
+element  elementname
+universal * 

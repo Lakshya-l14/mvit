@@ -1,0 +1,20 @@
+#div1{
+    height:750px;
+    width: 350px;
+    margin:5px;
+    border:5px solid rgba(3, 73, 81, 0.393);
+    background-color: rgb(232, 127, 127);
+    padding:10px;
+}
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+img{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
